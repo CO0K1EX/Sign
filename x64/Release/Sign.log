@@ -1,8 +1,0 @@
-﻿  Source.cpp
-C:\Users\Admin\source\repos\Sign\Sign\Source.cpp(49,87): warning C4244: =: преобразование "LONGLONG" в "DWORD", возможна потеря данных
-C:\Users\Admin\source\repos\Sign\Sign\Source.cpp(50,77): warning C4244: =: преобразование "LONGLONG" в "DWORD", возможна потеря данных
-  Создание кода
-  Previous IPDB not found, fall back to full compilation.
-  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Создание кода завершено
-  Sign.vcxproj -> C:\Users\Admin\source\repos\Sign\x64\Release\Sign.exe
